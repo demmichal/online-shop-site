@@ -1,0 +1,57 @@
+.guzior_nawigacyjny{
+    width: 25%;
+    margin: 0px;
+    padding: 20px;
+    background-color: lightgrey;
+    text-align: center;
+    text-decoration: none;
+    font-family:  'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: black;
+    font-size: 40px;
+    box-shadow: 10px 5px 5px gold;
+}
+.guzior_nawigacyjny:hover{
+    color: gold;
+}
+.produkt{
+    box-shadow: 0 5px 10px rgba(255, 255, 255, 0.5);
+    width: 20%;
+    text-align: center;
+    margin: 2px;
+}
+.usuwacz{
+    width: 135px;
+    height: 30px;
+    font-size: 20px;
+}
+nav{
+    display: flex;
+}
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family:  'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+main{
+    padding: 40px 40px;
+    display: flex;
+}
+p{
+    color: white;
+}
+a{
+    all: none;
+}
+.guzik{
+    width: 125px;
+    height: 60px;
+}

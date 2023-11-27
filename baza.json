@@ -1,0 +1,37 @@
+[
+    {
+    "nazwa": "Pizza",
+    "cena": 30.99,
+    "opis": "Smaczna pizza najlepsza",
+    "id": "prod001",
+    "src": "thumbsuppizza.jpg"
+    },
+    {
+    "nazwa": "Ptaszek",
+    "cena": 45.50,
+    "opis": "Opis produktu 2",
+    "id": "prod002",
+    "src": "ptaszek.jpg"
+    },
+    {
+    "nazwa": "Śniadanie",
+    "cena": 19.95,
+    "opis": "Pyszne zdrowe śniadanie",
+    "id": "prod003",
+    "src": "brekfest.jpg"
+    },
+    {
+    "nazwa": "Imprezowy szop",
+    "cena": 55.00,
+    "opis": "Super szop cena za godzine",
+    "id": "prod004",
+    "src": "impraszop.jpg"
+    },
+    {
+    "nazwa": "Tukan",
+    "cena": 10.49,
+    "opis": "Tukan na impreze do wynajęcia",
+    "id": "prod005",
+    "src": "tukn.jpg"
+    }
+    ]
